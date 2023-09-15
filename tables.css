@@ -1,0 +1,8 @@
+.form_table, td, th{
+    border: 1px solid black;
+}
+
+.form_table{
+    width:100%;
+    border-collapse: collapse;
+}
