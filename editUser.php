@@ -1,5 +1,11 @@
+
 <?php
-    include "database.php";
+/* 
+
+      Add files here!
+
+*/
+include "database.php";
     include "fileControl.php";
 
     $getUserID = $_GET['userID'];
